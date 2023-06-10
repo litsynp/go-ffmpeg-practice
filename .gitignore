@@ -157,3 +157,9 @@ fabric.properties
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/go,intellij,visualstudiocode
+
+## macOS ##
+.DS_Store
+
+## Output ##
+test_output.mp4
